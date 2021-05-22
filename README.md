@@ -1,2 +1,2 @@
 # ayurvedicbooks.github.io
-Get ayurvedic books for home ramadis
+Get ayurvedic books for home remedis
